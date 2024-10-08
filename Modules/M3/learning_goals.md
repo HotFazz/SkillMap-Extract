@@ -1,8 +1,5 @@
 This week's learning goals include:
 
-How to get help in this programming course
-Creating your first Java program
-Compiling and executing a Java Program
-Making a Java class from scratch
-Using methods in Java
-Basic Github proficiency
+* Branching (`if` and `else` statements)
+* Access object fields and methods with dot-notation
+* Using the Java Math Library
