@@ -1,53 +1,77 @@
 {
-    "general_description": "### Module M2: Building Java Classes and Understanding Scope #### General Description This module builds upon the foundational skills acquired in Module M1, focusing on the design and implementation of Java classes. Students will learn to create well-structured Java classes with fields, constructors, and methods. They will also explore the concept of scope and variable shadowing, which are crucial for writing clear and maintainable code. By the end of this module, students will be able to design and implement simple Java applications and understand the importance of encapsulation and data manipulation within classes. --- ### Skill Map #### 1. Designing Java Classes Learn the principles of object-oriented design and how to implement them in Java.",
+    "general_description": "",
     "detailed_points": [
-        "**Class Design Principles**",
-        "Understand the concept of encapsulation and its importance in class design.",
-        "Identify and define the responsibilities of a class.",
-        "**Class Components**",
-        "Define instance fields (attributes) and understand their role in storing object state.",
-        "Differentiate between class (static) fields and instance fields.",
-        "**Defining Fields**",
-        "Declare instance fields with appropriate data types.",
-        "Use access modifiers (`private`, `public`) to control field visibility.",
-        "**Field Initialization**",
-        "Understand default values for different data types.",
-        "Learn to initialize fields within constructors.",
-        "**Constructor Basics**",
-        "Define constructors with and without parameters.",
-        "Understand the role of constructors in object creation.",
-        "**Overloading Constructors**",
-        "Create multiple constructors to provide different ways of object initialization.",
-        "Use `this()` to call other constructors within the same class.",
-        "**Encapsulation with Accessor Methods**",
-        "Define getter methods to retrieve field values.",
-        "Define setter methods to update field values while maintaining data integrity.",
-        "**Best Practices**",
-        "Understand when to use getters and setters.",
-        "Implement validation logic within setters to enforce constraints.",
-        "**Accessing Fields and Methods**",
-        "Use the dot operator to access instance fields and methods.",
-        "Understand the syntax for chaining method calls.",
-        "**Object Interaction**",
-        "Learn how objects interact by calling methods on each other.",
-        "Understand the concept of method chaining and fluent interfaces.",
-        "**Basic Output**",
-        "Use `System.out.println()` and `System.out.print()` for console output.",
-        "Format output using escape sequences and string concatenation.",
-        "**Debugging with Print Statements**",
-        "Use print statements to track variable values and program flow.",
-        "Understand the limitations of print-based debugging.",
-        "**Program Execution Flow**",
-        "Define the `main` method and understand its signature: `public static void main(String[] args)`.",
-        "Learn to pass command-line arguments to the `main` method.",
-        "**Launching Applications**",
-        "Use the `main` method to create and manipulate objects.",
-        "Understand the lifecycle of a Java application from start to finish.",
-        "**Variable Scope**",
-        "Differentiate between local, instance, and class-level scope.",
-        "Understand the lifetime of variables in different scopes.",
-        "**Variable Shadowing**",
-        "Recognize and resolve variable shadowing issues.",
-        "Use `this` keyword to distinguish between instance fields and local variables."
+        {
+            "main_point": "Designing Java Classes",
+            "sub_points": [
+                "Description: This concept emphasizes the importance of designing well-structured Java classes, which are the building blocks of object-oriented programming. Understanding class design is crucial for creating maintainable and scalable applications.",
+                "Subpoint 1: Identifying class responsibilities and defining clear interfaces.",
+                "Subpoint 2: Implementing cohesive class structures with appropriate fields and methods.",
+                "Subpoint 3: Leveraging design patterns to solve common problems."
+            ]
+        },
+        {
+            "main_point": "Adding Instance Fields",
+            "sub_points": [
+                "Description: This concept covers the role of instance fields in storing object state and how they contribute to the behavior of Java classes. Mastery of instance fields is essential for effective data management within objects.",
+                "Subpoint 1: Declaring instance fields and understanding their scope.",
+                "Subpoint 2: Differentiating between instance and static fields.",
+                "Subpoint 3: Best practices for field encapsulation and data hiding."
+            ]
+        },
+        {
+            "main_point": "Adding a Constructor Method",
+            "sub_points": [
+                "Description: This concept introduces constructors, which are special methods used to initialize new objects. Understanding constructors is key to ensuring objects are created with valid and meaningful state.",
+                "Subpoint 1: Defining constructors and their role in object instantiation.",
+                "Subpoint 2: Overloading constructors to provide multiple initialization options.",
+                "Subpoint 3: Utilizing constructor chaining for efficient code reuse."
+            ]
+        },
+        {
+            "main_point": "Creating Getters and Setters",
+            "sub_points": [
+                "Description: This concept focuses on the use of getters and setters to access and modify private instance fields, promoting encapsulation and data integrity within Java classes.",
+                "Subpoint 1: Implementing getters and setters for controlled access to fields.",
+                "Subpoint 2: Understanding the importance of data validation in setters.",
+                "Subpoint 3: Exploring the impact of encapsulation on class design."
+            ]
+        },
+        {
+            "main_point": "Using the Dot Operator",
+            "sub_points": [
+                "Description: This concept explains the use of the dot operator in Java, which is fundamental for accessing object members and invoking methods. Mastery of the dot operator is crucial for interacting with objects.",
+                "Subpoint 1: Accessing fields and methods of an object using the dot operator.",
+                "Subpoint 2: Navigating nested objects and method chaining.",
+                "Subpoint 3: Understanding the implications of the dot operator on object references."
+            ]
+        },
+        {
+            "main_point": "Printing to the Terminal",
+            "sub_points": [
+                "Description: This concept covers the basics of outputting data to the terminal, an essential skill for debugging and user interaction in Java applications.",
+                "Subpoint 1: Using `System.out.println` and `System.out.print` for output.",
+                "Subpoint 2: Formatting output with `printf` and format specifiers.",
+                "Subpoint 3: Redirecting output streams for advanced use cases."
+            ]
+        },
+        {
+            "main_point": "Using the `main` Method",
+            "sub_points": [
+                "Description: This concept delves into the `main` method, the entry point of any Java application, and its significance in program execution.",
+                "Subpoint 1: Defining the `main` method and understanding its signature.",
+                "Subpoint 2: Passing command-line arguments to the `main` method.",
+                "Subpoint 3: Structuring the `main` method for effective program flow."
+            ]
+        },
+        {
+            "main_point": "Scope (or Variable Shadowing)",
+            "sub_points": [
+                "Description: This concept explores variable scope and shadowing, which are critical for understanding variable visibility and lifetime within Java programs.",
+                "Subpoint 1: Differentiating between local, instance, and class-level scope.",
+                "Subpoint 2: Identifying and resolving variable shadowing issues.",
+                "Subpoint 3: Best practices for managing variable scope for clarity and maintainability."
+            ]
+        }
     ]
 }

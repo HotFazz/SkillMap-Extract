@@ -1,0 +1,293 @@
+# Course-wide Skill Map
+
+## Module: M1
+**General Description**: 
+
+### Main Point: How to Get Help in This Programming Course
+- Description: This concept covers the various resources and strategies available to students for seeking assistance throughout the course. Understanding how to effectively get help is crucial for overcoming challenges and enhancing learning.
+- Subpoint 1: Utilizing course forums and discussion boards for peer and instructor support.
+- Subpoint 2: Accessing and navigating official documentation and online resources.
+- Subpoint 3: Attending office hours and seeking one-on-one guidance from instructors.
+
+### Main Point: Creating Your First Java Program
+- Description: This concept introduces students to the basics of writing a Java program, focusing on understanding the structure and syntax of a simple Java application.
+- Subpoint 1: Setting up the development environment with an IDE like Eclipse or IntelliJ IDEA.
+- Subpoint 2: Writing a "Hello, World!" program to demonstrate basic syntax and structure.
+- Subpoint 3: Understanding the main method and its role in a Java application.
+
+### Main Point: Compiling and Executing a Java Program
+- Description: This concept explains the process of transforming Java code into an executable program, highlighting the steps involved in compiling and running Java applications.
+- Subpoint 1: Using the Java compiler (javac) to compile source code into bytecode.
+- Subpoint 2: Executing the compiled bytecode using the Java Virtual Machine (JVM).
+- Subpoint 3: Troubleshooting common compilation and runtime errors.
+
+### Main Point: Making a Java Class from Scratch
+- Description: This concept delves into the creation of Java classes, emphasizing object-oriented programming principles and the importance of classes in Java.
+- Subpoint 1: Defining a class and understanding its components (fields, methods, constructors).
+- Subpoint 2: Creating objects from classes and understanding object instantiation.
+- Subpoint 3: Exploring access modifiers and encapsulation.
+
+### Main Point: Using Methods in Java
+- Description: This concept focuses on the definition and utilization of methods in Java, highlighting their role in code organization and reusability.
+- Subpoint 1: Defining methods with parameters and return types.
+- Subpoint 2: Calling methods and passing arguments.
+- Subpoint 3: Understanding method overloading and its applications.
+
+### Main Point: Basic GitHub Proficiency
+- Description: This concept introduces students to version control using GitHub, a critical tool for collaborative software development and code management.
+- Subpoint 1: Setting up a GitHub account and creating repositories.
+- Subpoint 2: Committing changes and managing version history.
+- Subpoint 3: Collaborating with others through pull requests and branching.
+
+## Module: M2
+**General Description**: 
+
+### Main Point: Designing Java Classes
+- Description: This concept emphasizes the importance of designing well-structured Java classes, which are the building blocks of object-oriented programming. Understanding class design is crucial for creating maintainable and scalable applications.
+- Subpoint 1: Identifying class responsibilities and defining clear interfaces.
+- Subpoint 2: Implementing cohesive class structures with appropriate fields and methods.
+- Subpoint 3: Leveraging design patterns to solve common problems.
+
+### Main Point: Adding Instance Fields
+- Description: This concept covers the role of instance fields in storing object state and how they contribute to the behavior of Java classes. Mastery of instance fields is essential for effective data management within objects.
+- Subpoint 1: Declaring instance fields and understanding their scope.
+- Subpoint 2: Differentiating between instance and static fields.
+- Subpoint 3: Best practices for field encapsulation and data hiding.
+
+### Main Point: Adding a Constructor Method
+- Description: This concept introduces constructors, which are special methods used to initialize new objects. Understanding constructors is key to ensuring objects are created with valid and meaningful state.
+- Subpoint 1: Defining constructors and their role in object instantiation.
+- Subpoint 2: Overloading constructors to provide multiple initialization options.
+- Subpoint 3: Utilizing constructor chaining for efficient code reuse.
+
+### Main Point: Creating Getters and Setters
+- Description: This concept focuses on the use of getters and setters to access and modify private instance fields, promoting encapsulation and data integrity within Java classes.
+- Subpoint 1: Implementing getters and setters for controlled access to fields.
+- Subpoint 2: Understanding the importance of data validation in setters.
+- Subpoint 3: Exploring the impact of encapsulation on class design.
+
+### Main Point: Using the Dot Operator
+- Description: This concept explains the use of the dot operator in Java, which is fundamental for accessing object members and invoking methods. Mastery of the dot operator is crucial for interacting with objects.
+- Subpoint 1: Accessing fields and methods of an object using the dot operator.
+- Subpoint 2: Navigating nested objects and method chaining.
+- Subpoint 3: Understanding the implications of the dot operator on object references.
+
+### Main Point: Printing to the Terminal
+- Description: This concept covers the basics of outputting data to the terminal, an essential skill for debugging and user interaction in Java applications.
+- Subpoint 1: Using `System.out.println` and `System.out.print` for output.
+- Subpoint 2: Formatting output with `printf` and format specifiers.
+- Subpoint 3: Redirecting output streams for advanced use cases.
+
+### Main Point: Using the `main` Method
+- Description: This concept delves into the `main` method, the entry point of any Java application, and its significance in program execution.
+- Subpoint 1: Defining the `main` method and understanding its signature.
+- Subpoint 2: Passing command-line arguments to the `main` method.
+- Subpoint 3: Structuring the `main` method for effective program flow.
+
+### Main Point: Scope (or Variable Shadowing)
+- Description: This concept explores variable scope and shadowing, which are critical for understanding variable visibility and lifetime within Java programs.
+- Subpoint 1: Differentiating between local, instance, and class-level scope.
+- Subpoint 2: Identifying and resolving variable shadowing issues.
+- Subpoint 3: Best practices for managing variable scope for clarity and maintainability.
+
+## Module: M3
+**General Description**: 
+
+### Main Point: Branching (`if` and `else` statements)
+- Description: This concept introduces the use of conditional statements in Java, which are essential for controlling the flow of a program based on different conditions. Mastery of branching allows students to implement logic that can adapt to varying inputs and scenarios.
+- Subpoint 1: Understanding the syntax and structure of `if` and `else` statements.
+- Subpoint 2: Implementing nested and chained `if-else` statements for complex decision-making.
+- Subpoint 3: Exploring the use of `else if` for multiple conditional branches.
+
+### Main Point: Access Object Fields and Methods with Dot-Notation
+- Description: This concept covers the use of dot-notation to interact with object fields and methods, a fundamental aspect of object-oriented programming in Java. Proficiency in dot-notation enables students to effectively manipulate and utilize objects within their programs.
+- Subpoint 1: Accessing and modifying object fields using dot-notation.
+- Subpoint 2: Invoking object methods and understanding method calls.
+- Subpoint 3: Navigating complex objects and method chaining for streamlined code.
+
+### Main Point: Using the Java Math Library
+- Description: This concept explores the Java Math Library, which provides a wide range of mathematical functions and constants. Understanding how to use this library is crucial for performing calculations and solving mathematical problems in Java applications.
+- Subpoint 1: Utilizing basic mathematical functions such as `Math.sqrt`, `Math.pow`, and `Math.abs`.
+- Subpoint 2: Generating random numbers with `Math.random` for simulations and games.
+- Subpoint 3: Applying trigonometric and logarithmic functions for advanced calculations.
+
+## Module: M4
+**General Description**: 
+
+### Main Point: Understanding Boolean Expressions and Operators
+- Description: This concept delves into the use of boolean expressions and operators, which are fundamental for making decisions in programming. Mastery of boolean logic is essential for implementing conditions and controlling program flow.
+- Subpoint 1: Defining boolean expressions and understanding their role in decision-making.
+- Subpoint 2: Exploring logical operators (`&&`, `||`, `!`) and their applications.
+- Subpoint 3: Constructing complex boolean expressions for advanced conditional logic.
+
+### Main Point: Mastering `while` Loops
+- Description: This concept introduces `while` loops, a fundamental control structure for executing a block of code repeatedly based on a condition. Understanding `while` loops is crucial for implementing iterative processes in programs.
+- Subpoint 1: Understanding the syntax and structure of `while` loops.
+- Subpoint 2: Implementing `while` loops for continuous execution until a condition is met.
+- Subpoint 3: Avoiding common pitfalls such as infinite loops and ensuring loop termination.
+
+### Main Point: Utilizing `for` Loops
+- Description: This concept covers `for` loops, which provide a concise way to iterate over a range of values. Proficiency in `for` loops is important for tasks that require iteration with a known number of repetitions.
+- Subpoint 1: Understanding the syntax and components of `for` loops (initialization, condition, increment).
+- Subpoint 2: Implementing `for` loops for iterating over arrays and collections.
+- Subpoint 3: Comparing `for` loops with `while` loops and choosing the appropriate loop type.
+
+### Main Point: Experimenting with JShell
+- Description: This concept introduces JShell, an interactive tool for experimenting with Java code snippets. JShell is valuable for testing code quickly and exploring Java features without the need for a full development environment.
+- Subpoint 1: Setting up and launching JShell for interactive coding sessions.
+- Subpoint 2: Executing Java expressions and statements in JShell.
+- Subpoint 3: Using JShell for debugging and testing code snippets efficiently.
+
+### Main Point: Exploring Function Overloading
+- Description: This concept explores function overloading, which allows multiple methods to have the same name with different parameters. Understanding function overloading is key to enhancing code readability and flexibility.
+- Subpoint 1: Defining overloaded methods and understanding their signatures.
+- Subpoint 2: Implementing function overloading for different use cases.
+- Subpoint 3: Understanding the benefits and potential pitfalls of overloading methods.
+
+## Module: M5
+**General Description**: 
+
+### Main Point: Working with Arrays
+- Description: This concept introduces arrays, a fundamental data structure in Java used to store fixed-size collections of elements. Mastery of arrays is crucial for efficient data management and manipulation in programming.
+- Subpoint 1: Declaring and initializing arrays with specific data types.
+- Subpoint 2: Accessing and modifying array elements using indices.
+- Subpoint 3: Iterating over arrays with loops for processing data.
+
+### Main Point: Understanding the `static` Keyword
+- Description: This concept explores the `static` keyword in Java, which is used to define class-level fields and methods. Understanding `static` is essential for managing shared data and functionality across instances of a class.
+- Subpoint 1: Defining static fields and methods and understanding their scope.
+- Subpoint 2: Differentiating between instance and static context.
+- Subpoint 3: Use cases for static methods and fields in utility classes.
+
+### Main Point: Working with ArrayLists
+- Description: This concept covers ArrayLists, a dynamic data structure in Java that allows for flexible management of collections. Proficiency in ArrayLists is important for handling variable-sized data sets efficiently.
+- Subpoint 1: Creating and initializing ArrayLists with generic types.
+- Subpoint 2: Adding, removing, and accessing elements in an ArrayList.
+- Subpoint 3: Iterating over ArrayLists using enhanced for-loops and iterators.
+
+### Main Point: Combining Loops and Collections
+- Description: This concept emphasizes the integration of loops with data collections, a critical skill for processing and analyzing data in Java applications. Mastery of this integration enables students to perform complex operations on collections.
+- Subpoint 1: Using loops to traverse and manipulate arrays and ArrayLists.
+- Subpoint 2: Implementing nested loops for multi-dimensional data structures.
+- Subpoint 3: Applying loop control statements (break, continue) for efficient data processing.
+
+## Module: M6
+**General Description**: 
+
+### Main Point: Understanding the Java `Random` Object
+- Description: This concept introduces the Java `Random` class, which is used to generate pseudo-random numbers. Understanding how to use the `Random` object is essential for applications that require randomization, such as simulations and games.
+- Subpoint 1: Creating and initializing a `Random` object.
+- Subpoint 2: Generating random integers, doubles, and booleans.
+- Subpoint 3: Using random numbers for simulations and randomized algorithms.
+
+### Main Point: Understanding the Ternary Operator
+- Description: This concept covers the ternary operator (`?:`), a concise way to express conditional logic in Java. Mastery of the ternary operator allows for more readable and succinct code when implementing simple conditional assignments.
+- Subpoint 1: Understanding the syntax and structure of the ternary operator.
+- Subpoint 2: Implementing the ternary operator for conditional value assignments.
+- Subpoint 3: Comparing the ternary operator with `if-else` statements for readability.
+
+### Main Point: Knowing the Difference Between a Deep and a Shallow Copy
+- Description: This concept explores the differences between deep and shallow copies of objects, which are critical for managing object references and data integrity in Java applications.
+- Subpoint 1: Defining shallow copies and understanding their implications on object references.
+- Subpoint 2: Creating deep copies to ensure independent object states.
+- Subpoint 3: Use cases for deep and shallow copying in real-world applications.
+
+### Main Point: Finding and Fixing Bugs
+- Description: This concept focuses on the techniques and tools used for identifying and resolving bugs in Java programs. Proficiency in debugging is crucial for developing reliable and error-free software.
+- Subpoint 1: Identifying common types of bugs and their causes.
+- Subpoint 2: Using debugging tools and techniques, such as breakpoints and stack traces.
+- Subpoint 3: Implementing systematic approaches to isolate and fix bugs.
+
+### Main Point: Using an Iterator to Modify a Collection During Iteration
+- Description: This concept introduces iterators, which are used to traverse and modify collections safely during iteration. Understanding iterators is essential for avoiding concurrent modification exceptions and ensuring data consistency.
+- Subpoint 1: Creating and using iterators to traverse collections.
+- Subpoint 2: Modifying collections safely using iterator methods.
+- Subpoint 3: Comparing iterators with enhanced for-loops for collection manipulation.
+
+### Main Point: Optional: Using Inheritance to Avoid Code Duplication
+- Description: This optional concept explores the use of inheritance in Java to promote code reuse and reduce duplication. Mastery of inheritance is important for designing scalable and maintainable object-oriented systems.
+- Subpoint 1: Defining base and derived classes and understanding their relationships.
+- Subpoint 2: Implementing inheritance to share common functionality across classes.
+- Subpoint 3: Exploring the benefits and challenges of using inheritance in design.
+
+## Module: M7
+**General Description**: 
+
+### Main Point: Using Documentation
+- Description: This concept emphasizes the importance of using documentation to understand and implement Java classes and libraries effectively. Mastery of documentation is crucial for solving programming problems and enhancing code quality.
+- Subpoint 1: Navigating official Java documentation and API references.
+- Subpoint 2: Understanding code examples and integrating them into projects.
+- Subpoint 3: Leveraging community resources and forums for additional insights.
+
+### Main Point: Reading from a Text File
+- Description: This concept introduces file I/O operations in Java, focusing on reading data from text files. Understanding file reading is essential for applications that require data persistence and external data processing.
+- Subpoint 1: Setting up file paths and understanding file streams.
+- Subpoint 2: Using classes like `FileReader` and `BufferedReader` for efficient file reading.
+- Subpoint 3: Handling exceptions and ensuring resource management with try-with-resources.
+
+### Main Point: Using the `HashMap` Class
+- Description: This concept explores the `HashMap` class, a powerful collection for storing key-value pairs. Mastery of `HashMap` is important for efficient data retrieval and manipulation in Java applications.
+- Subpoint 1: Creating and initializing a `HashMap` with generic types.
+- Subpoint 2: Performing operations such as adding, removing, and accessing key-value pairs.
+- Subpoint 3: Understanding hash functions and handling collisions for optimal performance.
+
+## Module: M8
+**General Description**: 
+
+### Main Point: Using Data from Files to Instantiate Objects
+- Description: This concept introduces the process of reading data from files and using it to create and initialize objects in Java. Mastery of this skill is essential for applications that require dynamic data handling and object creation based on external data sources.
+- Subpoint 1: Understanding file formats and parsing techniques for data extraction.
+- Subpoint 2: Using file I/O classes to read data and convert it into object attributes.
+- Subpoint 3: Handling exceptions and ensuring data integrity during object instantiation.
+
+### Main Point: Designing Classes
+- Description: This concept focuses on the principles and practices of designing well-structured Java classes, which are fundamental to object-oriented programming. Effective class design is crucial for creating maintainable and scalable software systems.
+- Subpoint 1: Identifying class responsibilities and defining clear interfaces.
+- Subpoint 2: Implementing cohesive class structures with appropriate fields and methods.
+- Subpoint 3: Leveraging design patterns to solve common problems and enhance class design.
+
+### Main Point: Programming Creatively
+- Description: This concept encourages students to apply creative thinking and problem-solving techniques in their programming projects. Creative programming is vital for developing innovative solutions and enhancing the functionality and user experience of software applications.
+- Subpoint 1: Exploring different approaches to problem-solving and algorithm design.
+- Subpoint 2: Encouraging experimentation and iteration to refine solutions.
+- Subpoint 3: Integrating user feedback and testing to improve program effectiveness and usability.
+
+## Module: M9
+**General Description**: 
+
+### Main Point: Running JUnit Tests
+- Description: This concept introduces the use of JUnit, a widely-used testing framework in Java, to execute automated tests. Mastery of JUnit is crucial for ensuring code reliability and facilitating continuous integration practices.
+- Subpoint 1: Setting up JUnit in a Java project and understanding its structure.
+- Subpoint 2: Writing and executing simple test cases using JUnit annotations.
+- Subpoint 3: Interpreting test results and understanding test reports for debugging.
+
+### Main Point: Using Failing Test Cases to Identify and Remedy Bugs
+- Description: This concept focuses on leveraging failing test cases to pinpoint and resolve bugs in the code. Understanding this process is essential for improving software quality and reliability.
+- Subpoint 1: Analyzing test failures to identify the root cause of bugs.
+- Subpoint 2: Implementing debugging techniques to isolate and fix issues.
+- Subpoint 3: Validating bug fixes by re-running tests and ensuring all cases pass.
+
+### Main Point: Writing Unit Tests
+- Description: This concept covers the principles and practices of writing unit tests to verify individual components of a program. Proficiency in unit testing is key to ensuring code correctness and preventing regressions.
+- Subpoint 1: Understanding the structure and purpose of unit tests.
+- Subpoint 2: Writing test cases for various scenarios, including edge cases.
+- Subpoint 3: Utilizing assertions to validate expected outcomes in tests.
+
+### Main Point: Using Test-Driven Development
+- Description: This concept explores the methodology of test-driven development (TDD), which emphasizes writing tests before implementing code. Mastery of TDD is important for developing robust and maintainable software.
+- Subpoint 1: Understanding the TDD cycle: Red, Green, Refactor.
+- Subpoint 2: Writing minimal tests to drive code implementation.
+- Subpoint 3: Refining code iteratively based on test feedback.
+
+### Main Point: Refactoring Code
+- Description: This concept delves into the practice of refactoring, which involves restructuring existing code to improve its readability and maintainability without changing its behavior. Understanding refactoring is crucial for enhancing code quality.
+- Subpoint 1: Identifying code smells and areas for improvement.
+- Subpoint 2: Applying refactoring techniques such as renaming, extracting methods, and simplifying expressions.
+- Subpoint 3: Ensuring code functionality remains intact through continuous testing.
+
+### Main Point: Optimizing Code
+- Description: This concept focuses on techniques for optimizing code to enhance performance and efficiency. Mastery of code optimization is essential for developing high-performing applications.
+- Subpoint 1: Analyzing code for performance bottlenecks and inefficiencies.
+- Subpoint 2: Implementing optimization strategies such as algorithm improvements and resource management.
+- Subpoint 3: Balancing optimization with code readability and maintainability.
+

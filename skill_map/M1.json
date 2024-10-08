@@ -1,66 +1,59 @@
 {
-    "general_description": "### Module M1: Introduction to Java Programming and Basic GitHub Proficiency #### General Description This module serves as the foundational entry point into Java programming and basic version control using GitHub. It is designed for beginners with no prior programming experience. By the end of this module, students will have the skills to write, compile, and execute simple Java programs, understand the structure of a Java class, utilize basic methods, and manage their code using GitHub. --- ### Skill Map #### 1. How to Get Help in This Programming Course Understanding how to seek assistance is crucial for overcoming challenges and enhancing learning efficiency.",
+    "general_description": "",
     "detailed_points": [
-        "**Course Resources**",
-        "Familiarize with the course syllabus and structure.",
-        "Identify key resources: textbooks, online materials, and forums.",
-        "**Instructor and TA Support**",
-        "Learn how to contact instructors and teaching assistants.",
-        "Understand office hours and how to make appointments.",
-        "**Peer Collaboration**",
-        "Engage in study groups and discussion forums.",
-        "Utilize collaborative tools for group learning.",
-        "**Online Help and Documentation**",
-        "Navigate official Java documentation.",
-        "Use online forums like Stack Overflow effectively.",
-        "Understand the importance of searching for error messages and solutions.",
-        "**Setting Up the Development Environment**",
-        "Install Java Development Kit (JDK).",
-        "Set up an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.",
-        "**Understanding Java Syntax**",
-        "Write a simple \"Hello, World!\" program.",
-        "Learn about Java's case sensitivity and syntax rules.",
-        "**Basic Program Structure**",
-        "Understand the main method: `public static void main(String[] args)`.",
-        "Learn about class declarations and naming conventions.",
-        "**Compilation Process**",
-        "Use the `javac` command to compile Java files.",
-        "Understand the role of bytecode and the Java Virtual Machine (JVM).",
-        "**Execution Process**",
-        "Use the `java` command to run compiled Java programs.",
-        "Understand the command-line interface and its basic commands.",
-        "**Troubleshooting Compilation Errors**",
-        "Identify and fix common syntax and semantic errors.",
-        "Interpret compiler error messages.",
-        "**Class Structure**",
-        "Define a class with fields and methods.",
-        "Understand access modifiers: `public`, `private`, and `protected`.",
-        "**Constructors**",
-        "Create constructors and understand their purpose.",
-        "Differentiate between default and parameterized constructors.",
-        "**Object Instantiation**",
-        "Learn how to create objects using the `new` keyword.",
-        "Understand the concept of reference variables.",
-        "**Method Declaration and Invocation**",
-        "Define methods with return types and parameters.",
-        "Call methods from the main method or other methods.",
-        "**Method Overloading**",
-        "Understand method overloading and its use cases.",
-        "Create overloaded methods with different parameter lists.",
-        "**Scope and Lifetime of Variables**",
-        "Differentiate between local and instance variables.",
-        "Understand the scope of variables within methods.",
-        "**Version Control Basics**",
-        "Understand the purpose and benefits of version control.",
-        "Learn basic Git concepts: repositories, commits, branches.",
-        "**GitHub Account Setup**",
-        "Create a GitHub account and set up a repository.",
-        "Understand repository visibility: public vs. private.",
-        "**Basic Git Operations**",
-        "Clone a repository to your local machine.",
-        "Stage, commit, and push changes to a remote repository.",
-        "**Collaboration on GitHub**",
-        "Understand pull requests and code reviews.",
-        "Learn how to fork a repository and contribute to open-source projects."
+        {
+            "main_point": "How to Get Help in This Programming Course",
+            "sub_points": [
+                "Description: This concept covers the various resources and strategies available to students for seeking assistance throughout the course. Understanding how to effectively get help is crucial for overcoming challenges and enhancing learning.",
+                "Subpoint 1: Utilizing course forums and discussion boards for peer and instructor support.",
+                "Subpoint 2: Accessing and navigating official documentation and online resources.",
+                "Subpoint 3: Attending office hours and seeking one-on-one guidance from instructors."
+            ]
+        },
+        {
+            "main_point": "Creating Your First Java Program",
+            "sub_points": [
+                "Description: This concept introduces students to the basics of writing a Java program, focusing on understanding the structure and syntax of a simple Java application.",
+                "Subpoint 1: Setting up the development environment with an IDE like Eclipse or IntelliJ IDEA.",
+                "Subpoint 2: Writing a \"Hello, World!\" program to demonstrate basic syntax and structure.",
+                "Subpoint 3: Understanding the main method and its role in a Java application."
+            ]
+        },
+        {
+            "main_point": "Compiling and Executing a Java Program",
+            "sub_points": [
+                "Description: This concept explains the process of transforming Java code into an executable program, highlighting the steps involved in compiling and running Java applications.",
+                "Subpoint 1: Using the Java compiler (javac) to compile source code into bytecode.",
+                "Subpoint 2: Executing the compiled bytecode using the Java Virtual Machine (JVM).",
+                "Subpoint 3: Troubleshooting common compilation and runtime errors."
+            ]
+        },
+        {
+            "main_point": "Making a Java Class from Scratch",
+            "sub_points": [
+                "Description: This concept delves into the creation of Java classes, emphasizing object-oriented programming principles and the importance of classes in Java.",
+                "Subpoint 1: Defining a class and understanding its components (fields, methods, constructors).",
+                "Subpoint 2: Creating objects from classes and understanding object instantiation.",
+                "Subpoint 3: Exploring access modifiers and encapsulation."
+            ]
+        },
+        {
+            "main_point": "Using Methods in Java",
+            "sub_points": [
+                "Description: This concept focuses on the definition and utilization of methods in Java, highlighting their role in code organization and reusability.",
+                "Subpoint 1: Defining methods with parameters and return types.",
+                "Subpoint 2: Calling methods and passing arguments.",
+                "Subpoint 3: Understanding method overloading and its applications."
+            ]
+        },
+        {
+            "main_point": "Basic GitHub Proficiency",
+            "sub_points": [
+                "Description: This concept introduces students to version control using GitHub, a critical tool for collaborative software development and code management.",
+                "Subpoint 1: Setting up a GitHub account and creating repositories.",
+                "Subpoint 2: Committing changes and managing version history.",
+                "Subpoint 3: Collaborating with others through pull requests and branching."
+            ]
+        }
     ]
 }
